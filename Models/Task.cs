@@ -15,5 +15,11 @@ namespace TodoApp.Models
         {
             
         }
+
+        // public Task(string TaskTitle, string TaskDescription)
+        // {
+        //     this.TaskTitle = TaskTitle;
+        //     this.TaskDescription = TaskDescription;
+        // }
     }
 }
