@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoApp
 build_property.RootNamespace = TodoApp
-build_property.ProjectDir = C:\Users\simon\Prosjekter\NET\TodoApp\
+build_property.ProjectDir = c:\Users\simon\Prosjekter\NET\TodoApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\simon\Prosjekter\NET\TodoApp
+build_property.MSBuildProjectDirectory = c:\Users\simon\Prosjekter\NET\TodoApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Home/Index.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_Form.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_LoginPartial.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Create.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Delete.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Details.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Edit.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Index.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Tasks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/_ViewImports.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/_ViewStart.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_Layout.cshtml]
+[c:/Users/simon/Prosjekter/NET/TodoApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yz4373aytu

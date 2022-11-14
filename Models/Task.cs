@@ -13,7 +13,6 @@ namespace TodoApp.Models
 
         public Task()
         {
-            
         }
 
         // public Task(string TaskTitle, string TaskDescription)
